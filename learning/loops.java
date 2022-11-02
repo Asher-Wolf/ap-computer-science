@@ -1,4 +1,3 @@
-package learning;
 import java.util.Scanner;
 
 public class loops {
@@ -21,7 +20,7 @@ public class loops {
 
             //create a factoreal funtion of a usar input. eg if they type 5 the output will be !5 = 120
 
-            System.out.println("please gimme gimme a number pwease uwu: ");
+            System.out.println("please gimme gimme a number pwease: ");
                 int valid = factor.nextInt();
 
             int Y = 1;

@@ -21,12 +21,12 @@ public class math {
         int newGuess = keyboard.nextInt();
         while(newGuess != guess){
             if (newGuess > guess){
-                System.out.println("YOU'RE GUES IS TO HI DUBMAS");
+                System.out.println("YOU'RE GUES IS TO HI");
                 newGuess = keyboard.nextInt();
 
             }
             else if (newGuess < guess){
-                System.out.println("LOW !!! GUESS AGAIN ASS DUMM!");
+                System.out.println("LOW !!! GUESS AGAIN DUMMY!");
 
             }
 

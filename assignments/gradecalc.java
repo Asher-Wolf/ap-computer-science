@@ -1,7 +1,7 @@
 package assignments;
 import java.util.Scanner;
 
-public class grade{    public static void main(String[] args){
+public class gradecalc{    public static void main(String[] args){
         Scanner keyboard = new Scanner(System.in);
         System.out.println("this programe will calculate your compouter science grade and tell you your letter grade");
 

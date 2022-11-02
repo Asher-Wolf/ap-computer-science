@@ -10,7 +10,7 @@ import java.util.*;
     
             System.out.println("your name is " + NAME);
     
-            System.out.println("please gimme gimme password UwU?  ");
+            System.out.println("please gimme gimme password?  ");
             Scanner PASS = new Scanner(System.in);
             String pass = PASS.nextLine();
 

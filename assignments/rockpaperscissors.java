@@ -2,7 +2,7 @@ package assignments;
 import java.util.Scanner;
 
 
-public class rocked {
+public class rockpaperscissors {
     public static void main(String[] args){
         Scanner keyboard = new Scanner(System.in);
         //0 is left hand
