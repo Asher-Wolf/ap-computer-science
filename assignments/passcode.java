@@ -1,3 +1,4 @@
+package assignments;
 import java.util.*;
 
     public class passcode{
