@@ -1,4 +1,4 @@
-package assignments;
+//package assignments;
 import java.util.Scanner;
 
 public class gradecalc{    public static void main(String[] args){

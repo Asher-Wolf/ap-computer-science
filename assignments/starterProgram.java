@@ -1,4 +1,4 @@
-package assignments;
+//package assignments;
 import java.util.*;
 
 public class starterProgram {
