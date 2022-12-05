@@ -60,19 +60,6 @@ class StringLen{
     }
 }
 
-class StringRepeat{
-    private String word;
-    private int time;
-
-    public StringRepeat(String words, int times){
-        word = words;
-        time = times;
-        
-    }
-    public String toString(){
-            return word.repeat(time);
-    }
-}
 
 class shuffleCharacters{
     private String word;
