@@ -101,9 +101,6 @@ public class mathobjects{
 
     StringLen str2 = new StringLen("balllllllllllslslslslslslslslssllslslslslsls");
     System.out.println(str2);
-    
-    StringRepeat str3 = new StringRepeat("tyler is so dreamy            ", 69);
-    System.out.println(str3); 
 
     shuffleCharacters str4 = new shuffleCharacters("OBAAM");
     System.out.println(str4);

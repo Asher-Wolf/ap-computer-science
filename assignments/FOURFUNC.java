@@ -1,13 +1,12 @@
 public class FOURFUNC {
 
     public static void main(String[] args){
-
-        FOURFUNC funky = new FOURFUNC();
-        funky.insult("the current state of the US governemnt");
+        FOURFUNC.insult("the current state of the US governemnt");
 
         FOURFUNC func = new FOURFUNC();
         func.output("asher", "wolf");
-        ballsy(5);
+        FOURFUNC.ballsy(5);
+        
     }
 
     public FOURFUNC() {
@@ -23,7 +22,7 @@ public class FOURFUNC {
     }
 
     public static void insult(String ball){
-        System.out.println("haha WHAT STUPID STRING TO PICK WHY WOULD YOU DO THAT  \'" + ball + "\' more like uhhh stoopid");
+        System.out.println("haha WHAT STUPID STRING TO PICK WHY WOULD YOU DO THAT  " + ball + " more like uhhh stoopid");
     }
 
 }
