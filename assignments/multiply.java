@@ -27,12 +27,8 @@ public class multiply extends JPanel {
             g.drawLine(0,y, 600,y);
         }
 
-        for(int x=0; x<=15; x++){
-            for(int y=0; y<=15; y++){
-                g.drawString(x*y + "", x*40-30, y*40-10 );
-            }
-
-        }
+        
+        
 
     }
    
