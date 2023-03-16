@@ -21,18 +21,14 @@ public class Quidditch {
 
         for( int h = 0; h<teams.length; h++ ){
             for( int k = 0; k<positions.length ; k++ ){
-
                 allPlayers[count] = new QuidditchPlayer(teams[h], positions[k]);
-
                 count++;
-
             }
         }
 
         for(int t = 0 ; t<allPlayers.length ; t++){
             System.out.println(allPlayers[t]);
         }
-
      }
 }    
         class QuidditchPlayer {
